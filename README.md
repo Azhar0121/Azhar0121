@@ -7,7 +7,7 @@
 Building web applications with Laravel and mobile applications with Flutter.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Azhar0121)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-azhar-athallah-79193933a)
 
 </div>
 
@@ -90,47 +90,9 @@ A web and mobile-based AC service booking system designed to simplify customer s
 
 ---
 
-## Development Focus
-
-```text
-Web Development       ████████████████████  Laravel / PHP
-Backend Development   ██████████████████░░  REST API / Database
-Mobile Development    ███████████████░░░░░  Flutter / Dart
-UI Development        ███████████████░░░░░  HTML / CSS / Bootstrap
-Database               █████████████████░░░  MySQL
-```
-
----
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Azhar0121&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar0121&layout=compact&hide_border=true&langs_count=6" height="165">
-
-</div>
-
----
-
 ## Currently
 
 * Developing web applications with Laravel
 * Exploring better backend architecture and database design
 * Building mobile applications with Flutter
 * Improving UI/UX and software development practices
-
----
-
-## Contact
-
-If you'd like to discuss a project, collaboration, or development ideas, feel free to reach out.
-
-<div align="center">
-
-**Muhammad Azhar Athallah**
-
-[GitHub](https://github.com/Azhar0121) · [LinkedIn](#)
-
-</div>
